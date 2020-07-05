@@ -6,25 +6,25 @@
 
 ***
 
-# _Social Media_
+# _My Social Media's_
 
 > ###### [YouTube](https://www.youtube.com/channel/UCqFE6t2cEoQ2CrEDYbayiEw?sub_confirmation=1)
 
-> ###### [Twitch](https://www.twitch.tv/Vaultonics) : I don't use this platform.
+> ###### [Twitch](https://www.twitch.tv/Vaultonics)
 
 > ###### [Twitter](https://twitter.com/Vaultonics)
 
 > ###### [Instagram](https://www.instagram.com/Vaultonics)
 
-> ###### [Reddit](https://www.reddit.com/user/Vaultonics) : I don't use this platform.
+> ###### [Reddit](https://www.reddit.com/user/Vaultonics)
 
 ***
 
-# _Gaming Console's_
+# __My Console Username's__
 
-> ###### PlayStation - Vaultonics
+> ###### PlayStation: Vaultonics
 
-> ###### Xbox - Vaultonics
+> ###### Xbox: Vaultonics
 
 ***
 
@@ -46,14 +46,22 @@
 
 ***
 
+# _Authorization Code_
+
+> ###### [Click this](https://discord.gg/fjUCr9V) , to be redirected to my discord server to learn more about how to obtain an authorization code.
+
+***
+
 # _Commands_
 
 > ###### [Click this](https://github.com/Vaultonics/Vault/wiki/Commands) , to be redirected to see the bot commands.
 
 ***
 
-# _Authorization Code_
+# _Epic Games__
 
-> ###### [Click this](https://discord.gg/fjUCr9V) , to be redirected to my discord server to learn more about how to obtain an authorization code.
+> ###### Would you like for this to be removed?
+
+> ###### If so please send a genuine email to: Vaultonics.Business@Gmail.com
 
 ***

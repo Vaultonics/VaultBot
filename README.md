@@ -22,12 +22,12 @@
 
 # _Commands_
 
-######
+###### [Click this](https://github.com/Vaultonics/Vault/wiki/Commands) , to be redirected to see the bot commands.
 
 ***
 
 # _Authorization Code_
 
-###### [Click this](https://discord.gg/fjUCr9V) , to be redirected to my discord server to learn more about how to obtain an Authorization Code.
+###### [Click this](https://discord.gg/fjUCr9V) , to be redirected to my discord server to learn more about how to obtain an authorization code.
 
 ***

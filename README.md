@@ -16,8 +16,6 @@
 
 > ###### [Instagram](https://www.instagram.com/Vaultonics)
 
-> ###### [Reddit](https://www.reddit.com/user/Vaultonics)
-
 ***
 
 # __My Console Username's__

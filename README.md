@@ -1,8 +1,8 @@
 # _Vault_
 
-***
-
 ###### Vaultonics Discord Server: https://discord.gg/pZPN2VA
+
+***
 
 # _Installation_
 
@@ -18,9 +18,13 @@
 
 ###### Step 6. Have fun with our lobby bot!
 
+***
+
 # _Commands_
 
 ######
+
+***
 
 # _Heads Up!_
 

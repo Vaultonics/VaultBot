@@ -58,7 +58,7 @@
 
 ***
 
-# _Epic Games__
+# _Epic Games_
 
 > ###### Would you like for this to be removed?
 

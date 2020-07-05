@@ -6,6 +6,28 @@
 
 ***
 
+# _Social Media_
+
+> ###### [YouTube](https://www.youtube.com/channel/UCqFE6t2cEoQ2CrEDYbayiEw?sub_confirmation=1)
+
+> ###### [Twitch](https://www.twitch.tv/Vaultonics) : I don't use this platform.
+
+> ###### [Twitter](https://twitter.com/Vaultonics)
+
+> ###### [Instagram](https://www.instagram.com/Vaultonics)
+
+> ###### [Reddit](https://www.reddit.com/user/Vaultonics) : I don't use this platform.
+
+***
+
+# _Gaming Console's_
+
+> ###### PlayStation - Vaultonics
+
+> ###### Xbox - Vaultonics
+
+***
+
 # _Installation_
 
 ***

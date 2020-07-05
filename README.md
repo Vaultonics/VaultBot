@@ -24,7 +24,7 @@
 
 > ###### PlayStation: Vaultonics
 
-> ###### Xbox: Vaultonics
+> ###### Xbox: Vaultonics | Never using this platform.
 
 ***
 

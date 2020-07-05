@@ -1,9 +1,9 @@
-# Vault 
+# _Vault_
 
-Fortnite lobby bot founded by, "Vaultonics" that has an expansive variety of commands that are ready to be shown off to the public.
+## Vaultonics Discord Server: https://discord.gg/pZPN2VA
 
-Vaultonics Discord Server: **__https://discord.gg/pZPN2VA__**
+# _Installation_
 
-# Installation
+## Step 1. Click the Code button and then click the button that says, "Download ZIP".
 
-Step 1. Click the Code button and then click the button that says, "Download ZIP".
+## Steps 2. Open the ZIP file and extract onto either your Desktop or into a folder.

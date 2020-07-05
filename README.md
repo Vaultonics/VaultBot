@@ -26,8 +26,8 @@
 
 ***
 
-# _Heads Up!_
+# _Authorization Code_
 
-###### If it asks for an authorization code click this link and follow the steps on how to retrieve one, https://discord.gg/fjUCr9V !
+###### Click this, "[Auth-Code](https://discord.gg/fjUCr9V)" to be redirected to my discord server to learn more about what an Authorization Code is.
 
 

@@ -28,6 +28,6 @@
 
 # _Authorization Code_
 
-###### Click this, "[Auth-Code](https://discord.gg/fjUCr9V)" to be redirected to my discord server to learn more about what an Authorization Code is.
+###### [Click this](https://discord.gg/fjUCr9V) , to be redirected to my discord server to learn more about how to obtain an Authorization Code.
 
-
+***

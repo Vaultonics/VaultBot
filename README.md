@@ -40,7 +40,7 @@
 
 > ###### Step 4. Head to the _Epic Games_ website and create an account. Then go into the _config.json_ file and type in the credentials of the account that you've just created and click, "Save".
 
-> ###### Step 5.Run the, "Start.bat" program after adding your _Epic Games_ account information.
+> ###### Step 5.Run the, "Start.bat" program after adding your _Epic Games_ account information to the _config.json_ file.
 
 > ###### Step 6. Have fun with our lobby bot!
 

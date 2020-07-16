@@ -2,7 +2,7 @@
 
 ***
 
-> ###### The official _VaultBot_ discord server: https://discord.gg/HeKv3UN 
+> ###### VaultBot's official discord server: https://discord.gg/HeKv3UN 
 
 ***
 

@@ -1,28 +1,8 @@
-# _Vault_
+# _VaultBot_
 
 ***
 
-> ###### Vaultonics Discord Server: https://discord.gg/pZPN2VA
-
-***
-
-# _My Social Media's_
-
-> ###### [YouTube](https://www.youtube.com/channel/UCqFE6t2cEoQ2CrEDYbayiEw?sub_confirmation=1)
-
-> ###### [Twitch](https://www.twitch.tv/Vaultonics)
-
-> ###### [Twitter](https://twitter.com/Vaultonics)
-
-> ###### [Instagram](https://www.instagram.com/Vaultonics)
-
-***
-
-# __My Console Username's__
-
-> ###### PlayStation: Vaultonics
-
-> ###### Xbox: Vaultonics | Never using this platform.
+> ###### The official _VaultBot_ discord server: https://discord.gg/HeKv3UN 
 
 ***
 
@@ -46,7 +26,7 @@
 
 # _Authorization Code_
 
-> ###### [Click this](https://discord.gg/fjUCr9V) , to be redirected to my discord server to learn more about how to obtain an authorization code.
+> ###### [Click this](https://discord.gg/HeKv3UN) , to be redirected to my discord server to learn more about how to obtain an authorization code.
 
 ***
 
